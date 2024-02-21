@@ -1,0 +1,14 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Cloudray_assignment",  
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Srini",
+  "license": "ISC",
+  "dependencies": {
+    "filesaver": "^0.0.13"
+  }
+}
