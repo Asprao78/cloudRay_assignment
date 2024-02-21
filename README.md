@@ -9,4 +9,4 @@ Ensure that NodeJS is installed on your PC
 5. Open the terminal and run the command 'node index.js'
 
 Expected:
-Your output.json file shoud be visible in the directory.
+Your output.json file should be visible in the directory.
