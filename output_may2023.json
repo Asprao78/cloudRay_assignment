@@ -1,0 +1,219 @@
+[
+  {
+    "date": "2023-05-01",
+    "min": 64,
+    "max": 125,
+    "median": 91,
+    "latestDataTimeStamp": "2023-05-01T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-02",
+    "min": 65,
+    "max": 115,
+    "median": 97,
+    "latestDataTimeStamp": "2023-05-02T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-03",
+    "min": 62,
+    "max": 125,
+    "median": 94.5,
+    "latestDataTimeStamp": "2023-05-03T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-04",
+    "min": 60,
+    "max": 122,
+    "median": 94,
+    "latestDataTimeStamp": "2023-05-04T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-05",
+    "min": 66,
+    "max": 125,
+    "median": 93.5,
+    "latestDataTimeStamp": "2023-05-05T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-06",
+    "min": 63,
+    "max": 121,
+    "median": 86,
+    "latestDataTimeStamp": "2023-05-06T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-07",
+    "min": 62,
+    "max": 125,
+    "median": 97.5,
+    "latestDataTimeStamp": "2023-05-07T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-08",
+    "min": 61,
+    "max": 125,
+    "median": 95.5,
+    "latestDataTimeStamp": "2023-05-08T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-09",
+    "min": 60,
+    "max": 123,
+    "median": 88,
+    "latestDataTimeStamp": "2023-05-09T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-10",
+    "min": 66,
+    "max": 123,
+    "median": 103.5,
+    "latestDataTimeStamp": "2023-05-10T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-11",
+    "min": 61,
+    "max": 125,
+    "median": 104.5,
+    "latestDataTimeStamp": "2023-05-11T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-12",
+    "min": 64,
+    "max": 125,
+    "median": 87.5,
+    "latestDataTimeStamp": "2023-05-12T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-13",
+    "min": 63,
+    "max": 125,
+    "median": 97,
+    "latestDataTimeStamp": "2023-05-13T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-14",
+    "min": 60,
+    "max": 123,
+    "median": 98,
+    "latestDataTimeStamp": "2023-05-14T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-15",
+    "min": 70,
+    "max": 125,
+    "median": 103.5,
+    "latestDataTimeStamp": "2023-05-15T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-16",
+    "min": 63,
+    "max": 123,
+    "median": 97.5,
+    "latestDataTimeStamp": "2023-05-16T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-17",
+    "min": 63,
+    "max": 116,
+    "median": 93,
+    "latestDataTimeStamp": "2023-05-17T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-18",
+    "min": 62,
+    "max": 117,
+    "median": 94.5,
+    "latestDataTimeStamp": "2023-05-18T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-19",
+    "min": 64,
+    "max": 115,
+    "median": 93,
+    "latestDataTimeStamp": "2023-05-19T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-20",
+    "min": 60,
+    "max": 119,
+    "median": 84.5,
+    "latestDataTimeStamp": "2023-05-20T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-21",
+    "min": 60,
+    "max": 125,
+    "median": 89.5,
+    "latestDataTimeStamp": "2023-05-21T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-22",
+    "min": 60,
+    "max": 124,
+    "median": 93.5,
+    "latestDataTimeStamp": "2023-05-22T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-23",
+    "min": 61,
+    "max": 124,
+    "median": 95,
+    "latestDataTimeStamp": "2023-05-23T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-24",
+    "min": 60,
+    "max": 124,
+    "median": 108,
+    "latestDataTimeStamp": "2023-05-24T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-25",
+    "min": 60,
+    "max": 125,
+    "median": 87.5,
+    "latestDataTimeStamp": "2023-05-25T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-26",
+    "min": 61,
+    "max": 123,
+    "median": 92.5,
+    "latestDataTimeStamp": "2023-05-26T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-27",
+    "min": 67,
+    "max": 124,
+    "median": 102.5,
+    "latestDataTimeStamp": "2023-05-27T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-28",
+    "min": 60,
+    "max": 123,
+    "median": 92.5,
+    "latestDataTimeStamp": "2023-05-28T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-29",
+    "min": 71,
+    "max": 125,
+    "median": 106,
+    "latestDataTimeStamp": "2023-05-29T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-30",
+    "min": 60,
+    "max": 124,
+    "median": 97,
+    "latestDataTimeStamp": "2023-05-30T23:00:00.000Z"
+  },
+  {
+    "date": "2023-05-31",
+    "min": 61,
+    "max": 121,
+    "median": 102.5,
+    "latestDataTimeStamp": "2023-05-31T23:00:00.000Z"
+  }
+]
