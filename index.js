@@ -11,16 +11,12 @@ fs.readFile("heartrate.json", function (err, data) {
 	let finalObject = [];
 	let apr28 = [];
 	let apr28bpm = [];
-	let apr28Object = [];
 	let apr29 = [];
 	let apr29bpm = [];
-	let apr29Object = [];
 	let apr30 = [];
 	let apr30bpm = [];
-	let apr30Object = [];
 	let may01 = [];
 	let may01bpm = [];
-	let may01Object = [];
 	let jsonData = null;
 
 	//Parse the json data to an array object using the JSON Parse function
@@ -66,10 +62,11 @@ fs.readFile("heartrate.json", function (err, data) {
 	}
 	
 	//Writing the output data in Json format
-	jsonData = JSON.stringify(finalObject,null,4);
+	jsonData = JSON.stringify(finalObject,null,2);
 	fs.writeFile('output.json',jsonData,'utf-8',function(err){
 		if(err) throw err;
 	})
+	console.log("Heart Rate statistics calculated and saved to ".concat('output.json'));
 	
 
 })
